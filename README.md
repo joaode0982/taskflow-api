@@ -61,7 +61,7 @@ npm run start:dev
 
 Acesse a documentação da API via Swagger:
 
-👉 http://localhost:3000/api
+ http://localhost:3333/api
 
 ---
 
